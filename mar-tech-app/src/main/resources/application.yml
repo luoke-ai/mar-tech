@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: mar-tech-app
+  profiles:
+    active: dev
